@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/jessm91/deep-thoughts#readme",
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "jwt-decode": "^3.1.2"
   },
   "devDependencies": {
     "concurrently": "^6.0.0"
